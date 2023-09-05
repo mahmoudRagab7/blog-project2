@@ -1,0 +1,10 @@
+2023-09-05 15:30:44 | WARN | "userName" is required
+2023-09-05 15:31:22 | WARN | "userName" is required
+2023-09-05 15:31:33 | WARN | "userName" is required
+2023-09-05 15:31:51 | WARN | "password" must be a string
+2023-09-05 15:31:59 | WARN | "firstName" is not allowed
+2023-09-05 15:32:14 | WARN | "userName" is required
+2023-09-05 15:33:59 | WARN | "password" must be a string
+2023-09-05 15:34:14 | INFO | {"firstName":"Mahmoud","lastName":"Ragab","email":"mahmoud@gmail.com","password":"12345678"}
+2023-09-05 15:34:19 | WARN | "firstName" is required
+2023-09-05 16:06:29 | INFO | {"firstName":"Mahmoud","lastName":"Ragab","email":"mahmoud@gmail.com","password":"12345678"}
